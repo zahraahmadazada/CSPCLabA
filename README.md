@@ -24,3 +24,10 @@ the observed tada decays were compared with analytical law results. Although the
 
 Snakemake was used to easily create the plotting pipeline. It takes
 `decay_observed.csv` as input and runs `plot.py` to generate `figure.png`.
+
+##PW2 - LAB A
+
+The data of acceleration is noisy because of diffrentiation process ,it makes small errors in position data bigger in accleleration data 
+
+Report:
+    The mean acceleration was -8.57 m/s^2,the largest difference was 0.78 .It proves that taking derivative cause noisiness and integration restore preciseness back
