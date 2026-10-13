@@ -1,6 +1,3 @@
-rule all:
-    input:
-        "figure.png"
 
 rule plot:
     input:
